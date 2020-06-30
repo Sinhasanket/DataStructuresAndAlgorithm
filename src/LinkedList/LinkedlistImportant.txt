@@ -1,0 +1,17 @@
+1. Stack implementation using a Linked list?
+2. Queue using a linked list?
+3. Circular queue using arrays and Linked list?
+4. Program to return the nth node from the end in a linked list?
+5. Remove duplicates from a linked list?
+6. Reverse a linked list?
+7. Detect a loop in a linked list?
+8. Write a function that counts the number of times a given int occurs in a Linked List?
+9. Find length of loop in linked list?
+10. Function to check if a singly linked list is palindrome?
+11. Remove duplicates from a sorted linked list?
+12. Remove duplicates from an unsorted linked list?
+13. Swap nodes in a linked list without swapping data?
+14. Move last element to front of a given Linked List?
+15. Intersection of two Sorted Linked Lists?
+16. Intersection point of two Linked Lists?
+17. Segregate even and odd nodes in a Linked List?
